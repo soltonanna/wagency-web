@@ -1,2 +1,2 @@
 # wagency-web
-WordPress Theme For Web Design Agency
+Web Site, Design for Agency
